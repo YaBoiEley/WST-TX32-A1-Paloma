@@ -16,6 +16,8 @@
             <?= $this ->include('Components/header_nav') ?>
 
         <!-- Footer -->
-        <?= $this ->include('Components/footer_main') ?> 
+        
+            <?= $this ->include('Components/footer_main') ?> 
+            
     </body>
 </html>
