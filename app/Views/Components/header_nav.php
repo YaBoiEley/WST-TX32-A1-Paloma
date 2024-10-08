@@ -20,9 +20,6 @@
                     <li class="nav-item">
                         <a href="<?= base_url() . 'travelInformation' ?>" class="nav-link">Info</a>
                     </li>
-                    <li class="nav-item">
-                        <a href="groupPage.php" class="nav-link">Group</a>
-                    </li>
                     </ul>
                 </div>
             </div>

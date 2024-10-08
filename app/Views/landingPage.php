@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Group 1</title>
+        <title>Emirate Air</title>
         <link rel="icon" type="image/ico" href="">
         <!-- Bootstrap/CSS -->
         <link href="assets/bootstrap/css/bootstrap.css" rel="stylesheet">
