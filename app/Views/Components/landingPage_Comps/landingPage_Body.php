@@ -1,0 +1,35 @@
+        <!-- <div class="container mt-5 mb-5"> -->
+                <!-- Hero Section -->
+                <div class="jumbotron text-center mt-5 mb-5 hero-section">
+                    <h1 class="display-4">Welcome to Emirate Air</h1>
+                    <p class="lead">Experience the best services and offers with us.</p>
+                    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+                </div>
+
+            <!-- Services Section -->
+            <div class="row mt-5 mb-5 services-section">
+                <div class="col-md-4">
+                    <h2>Our Services</h2>
+                    <p>We offer a wide range of services to meet all your needs. From travel bookings to exclusive offers, we have it all.</p>
+                    <a class="btn btn-secondary" href="#" role="button">View details »</a>
+                </div>
+                <div class="col-md-4">
+                    <h2>Promotions</h2>
+                    <p>Check out our latest promotions and save big on your next trip. Don't miss out on these exclusive deals.</p>
+                    <a class="btn btn-secondary" href="#" role="button">View details »</a>
+                </div>
+                <div class="col-md-4">
+                    <h2>Customer Testimonials</h2>
+                    <p>Hear from our satisfied customers and learn about their experiences with our services.</p>
+                    <a class="btn btn-secondary" href="#" role="button">View details »</a>
+                </div>
+            </div>
+
+            <!-- Additional Information Section -->
+            <div class="row mt-5 mb-5 additional-info-section">
+                <div class="col-md-12">
+                    <h2>Why Choose Us?</h2>
+                    <p>We are committed to providing the best services and ensuring customer satisfaction. Our team is dedicated to making your experience unforgettable.</p>
+                </div>
+            </div>
+        <!-- </div> -->

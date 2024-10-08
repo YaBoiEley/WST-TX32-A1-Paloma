@@ -1,3 +1,4 @@
+<style>
 
 * {
     box-sizing: border-box;
@@ -55,3 +56,23 @@ body {
 .center {
     text-align: center;
 }
+
+.hero-section {
+    background-color: #6bb5ff; 
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.services-section {
+    background-color: #1283f4; 
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.additional-info-section {
+    background-color: #0080ff; 
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+</style>

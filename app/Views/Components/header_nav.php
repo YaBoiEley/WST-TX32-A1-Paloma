@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-sm navbar-dark navbar-custom">
             <div class="container">
                 <a href="<?= base_url() ?>" class="navbar-brand text-uppercase fs-5">
-                    <img src="" alt="Logo" width="70" class="d-inline-block align-middle">
-                    GROUP 1 TEMPLATE
+                    <!-- <img src="" alt="Logo" width="70" class="d-inline-block align-middle"> -->
+                    Emirate Air 
                 </a>
 
                 <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
