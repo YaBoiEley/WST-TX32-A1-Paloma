@@ -2,12 +2,12 @@
             <div class = "container text-center text-md-left mb-5">
                 <div class ="row card-footer border-white border-opacity-10">
                     <div class="mx-auto pt-5 col-md-4 col-lg-4 col-xl-4">
-                        <h3 class = "fw-bold cyan">GROUP 1</h3>
+                        <h3 class = "fw-bold cyan">Emirate Air</h3>
                         <p>Plainzzz go BRRRRRRRRRRRRRRRRR</p>
                     </div>
 
                     <div class="mx-auto pt-5 col-4 col-sm-3 col-md-3 col-lg-3 col-xl-3">
-                        <h3 class = "fw-bold cyan">Emirate Air</h3>
+                        <h3 class = "fw-bold cyan">Group 1</h3>
                         <p class = "center">Tiratira, Eziekel</p>
                         <p class = "center">Tolentino, Samuel Ghenvic</p>
                         <p class = "center">Quimora, Byron</p>
