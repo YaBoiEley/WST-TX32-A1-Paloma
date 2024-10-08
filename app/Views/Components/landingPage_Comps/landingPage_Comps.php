@@ -39,7 +39,7 @@ body {
     font-family: sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    background-color: #060620;
+    background-color: #ffffff;
     color: #ffffff;
 }
 
@@ -58,19 +58,19 @@ body {
 }
 
 .hero-section {
-    background-color: #6bb5ff; 
+    background-color: #dc143c; 
     padding: 20px;
     margin-bottom: 20px;
 }
 
 .services-section {
-    background-color: #1283f4; 
+    background-color: #dc143c; 
     padding: 20px;
     margin-bottom: 20px;
 }
 
 .additional-info-section {
-    background-color: #0080ff; 
+    background-color: #dc143c; 
     padding: 20px;
     margin-bottom: 20px;
 }
