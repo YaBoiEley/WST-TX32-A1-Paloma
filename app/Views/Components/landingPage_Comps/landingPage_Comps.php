@@ -1,5 +1,10 @@
 <style>
 
+@font-face {
+    font-family: 'Footlight MT Light';
+    src: url('assets/fonts/FTLTLT.TTF') format('truetype');
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -69,6 +74,7 @@ body {
     overflow: hidden; /* Ensure the pseudo-element does not overflow */
 }
 
+/* Our Services */
 .bg-image::before {
     content: "";
     position: absolute;
@@ -88,9 +94,53 @@ body {
     filter: blur(10px); /* Increase blur effect on hover */
 }
 
+/* Promotions */
+.bg-image2::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('assets/images/emiratesPromotions.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: filter 0.3s ease; /* Smooth transition for the blur effect */
+    z-index: -1; /* Ensure the pseudo-element is behind the content */
+}
+
+.bg-image2:hover::before {
+    filter: blur(10px); /* Increase blur effect on hover */
+}
+
+/* Customer Testimonials */
+.bg-image3::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('assets/images/emiTestimonials.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: filter 0.3s ease; /* Smooth transition for the blur effect */
+    z-index: -1; /* Ensure the pseudo-element is behind the content */
+}
+
+.bg-image3:hover::before {
+    filter: blur(10px); /* Increase blur effect on hover */
+}
+
 .additional-info-section {
     background-color: #dc143c;
     padding: 20px;
     margin-bottom: 20px;
+}
+
+.footlight-font {
+    font-family: 'Footlight MT Light', sans-serif;
 }
 </style>
