@@ -14,7 +14,7 @@
 
 .navbar-brand:hover {
     color: #aaf8ca;
-    }
+}
 
 .nav-link {
     font-family: 'Exo', sans-serif;
@@ -30,7 +30,7 @@
     background-color: #14142c;
 }
 
-p{
+p {
     text-align: justify;
     color: #ffffff;
 }
@@ -38,9 +38,6 @@ p{
 body {
     font-family: sans-serif;
     font-size: 16px;
-    line-height: 1.5;
-    background-color: #ffffff;
-    color: #ffffff;
 }
 
 .cyan {
@@ -58,21 +55,42 @@ body {
 }
 
 .hero-section {
-    background-color: #dc143c; 
+    background-color: #dc143c;
     padding: 20px;
     margin-bottom: 20px;
 }
 
 .services-section {
-    background-color: #dc143c; 
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background to ensure text readability */
     padding: 20px;
     margin-bottom: 20px;
+    color: white; /* Ensure text is readable on the background image */
+    position: relative;
+    overflow: hidden; /* Ensure the pseudo-element does not overflow */
+}
+
+.bg-image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('assets/images/crewAndPilot.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: filter 0.3s ease; /* Smooth transition for the blur effect */
+    z-index: -1; /* Ensure the pseudo-element is behind the content */
+}
+
+.bg-image:hover::before {
+    filter: blur(10px); /* Increase blur effect on hover */
 }
 
 .additional-info-section {
-    background-color: #dc143c; 
+    background-color: #dc143c;
     padding: 20px;
     margin-bottom: 20px;
 }
-
 </style>

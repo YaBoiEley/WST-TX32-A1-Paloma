@@ -10,7 +10,7 @@
             <div class="container mb-5">
                 <div class="row">
                     <div class="col-md-4">
-                        <div class="container services-section">
+                        <div class="container services-section bg-image">
                             <h2 class="text-center">Our Services</h2>
                             <p>We offer a wide range of services to meet all your needs. From travel bookings to exclusive offers, we have it all.</p>
                             <div class="d-flex justify-content-center mt-3">
@@ -19,7 +19,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="container services-section">
+                        <div class="container services-section bg-image" style="background-image: url('https://via.placeholder.com/600x400');">
                             <h2 class="text-center">Promotions</h2>
                             <p>Check out our latest promotions and save big on your next trip. Don't miss out on these exclusive deals.</p>
                             <div class="d-flex justify-content-center mt-3">
@@ -28,7 +28,7 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="container services-section">
+                        <div class="container services-section bg-image" style="background-image: url('https://via.placeholder.com/600x400');">
                             <h2 class="text-center">Customer Testimonials</h2>
                             <p>Hear from our satisfied customers and learn about their experiences with our given services and exclusive deals.</p>
                             <div class="d-flex justify-content-center mt-3">
