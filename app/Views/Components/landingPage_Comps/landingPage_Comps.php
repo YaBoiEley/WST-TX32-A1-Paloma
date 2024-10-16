@@ -14,7 +14,7 @@
 .navbar-brand {
     font-family: 'Exo', sans-serif;
     font-weight: 700;
-    color: #04E0D8;
+    color: #fb1f27;
 }
 
 .navbar-brand:hover {
@@ -24,7 +24,7 @@
 .nav-link {
     font-family: 'Exo', sans-serif;
     font-weight: 400;
-    color: #04E0D8;
+    color: #fb1f27;
 }
 
 .nav-link:hover {
@@ -46,7 +46,7 @@ body {
 }
 
 .cyan {
-    color: #04E0D8;
+    color: #fb1f27;
 }
 
 .darkblue {

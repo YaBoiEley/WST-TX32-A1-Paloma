@@ -1,7 +1,7 @@
-<nav class="navbar navbar-expand-sm navbar-dark navbar-custom">
+        <nav class="navbar navbar-expand-sm navbar-dark navbar-custom">
             <div class="container">
-                <a href="<?= base_url() ?>" class="navbar-brand text-uppercase fs-5">
-                    <!-- <img src="" alt="Logo" width="70" class="d-inline-block align-middle"> -->
+                <a href="<?= base_url() ?>" class="navbar-brand text-uppercase fs-5 footlight-font">
+                    <img src="assets/images/eLogo.png" alt="Logo" width="70" class="d-inline-block align-middle">
                     Emirate Air 
                 </a>
 
