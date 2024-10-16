@@ -3,7 +3,7 @@
                 <div class ="row card-footer border-white border-opacity-10">
                     <div class="mx-auto pt-5 col-md-4 col-lg-4 col-xl-4">
                         <h3 class = "fw-bold cyan">Emirate Air</h3>
-                        <p>Plainzzz go BRRRRRRRRRRRRRRRRR</p>
+                        <p>As a global organisation, we are committed to ethical ​business practices. We believe long‑term, successful business relationships are built on honesty, fairness and the strength of our products and services. Our commercial success has been driven by Dubai’s Open Skies aviation policy, and is based on our solid business model and customer centricity</p>
                     </div>
 
                     <div class="mx-auto pt-5 col-4 col-sm-3 col-md-3 col-lg-3 col-xl-3">
