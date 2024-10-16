@@ -1,12 +1,10 @@
         <!-- <div class="container mt-5 mb-5"> -->
                 <!-- Hero Section -->
-                <div class="jumbotron text-center mt-5 mb-5 hero-section">
+                <div class="jumbotron text-center mt-5 mb-5 hero-section" style="background-image: url('assets/images/airEmirates.jpg'); background-size: cover; background-position: center; color: white;">
                     <h1 class="display-4 footlight-font">Welcome to Emirate Air</h1>
-                    <p class="lead text-center">Experience the best services and offers with us.</p>
+                    <p class="lead text-center" style="color: black;">Experience the best services and offers with us.</p>        
                     <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-                </div>
-
-            <!-- Services Section -->
+                </div>        <!-- Services Section -->
             <div class="container mb-5">
                 <div class="row">
                     <div class="col-md-4">
